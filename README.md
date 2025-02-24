@@ -1,7 +1,7 @@
 # AI Image Generator
 
 This project is a simple AI-powered image generator that takes user input and generates an image using OpenAI's DALL·E API. The project consists of a frontend built with HTML, Tailwind CSS, and JavaScript, and a backend using Node.js and Express.
-
+ttydusyduy
 ## Features
 - User can enter a text prompt to generate an image
 - Displays a loading message during API requests
